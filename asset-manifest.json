@@ -1,7 +1,7 @@
 {
   "main.css": "/better_clean/static/css/main.91458570.chunk.css",
-  "main.js": "/better_clean/static/js/main.f587b49c.chunk.js",
-  "main.js.map": "/better_clean/static/js/main.f587b49c.chunk.js.map",
+  "main.js": "/better_clean/static/js/main.de9f1c7a.chunk.js",
+  "main.js.map": "/better_clean/static/js/main.de9f1c7a.chunk.js.map",
   "static/css/1.51749f51.chunk.css": "/better_clean/static/css/1.51749f51.chunk.css",
   "static/js/1.2e26c9e5.chunk.js": "/better_clean/static/js/1.2e26c9e5.chunk.js",
   "static/js/1.2e26c9e5.chunk.js.map": "/better_clean/static/js/1.2e26c9e5.chunk.js.map",
@@ -16,6 +16,6 @@
   "static/css/1.51749f51.chunk.css.map": "/better_clean/static/css/1.51749f51.chunk.css.map",
   "static/css/main.91458570.chunk.css.map": "/better_clean/static/css/main.91458570.chunk.css.map",
   "index.html": "/better_clean/index.html",
-  "precache-manifest.552ed9d4c2d760b723a590a47edd3808.js": "/better_clean/precache-manifest.552ed9d4c2d760b723a590a47edd3808.js",
+  "precache-manifest.31ca1a7821f8c1bcef922a48b7686e70.js": "/better_clean/precache-manifest.31ca1a7821f8c1bcef922a48b7686e70.js",
   "service-worker.js": "/better_clean/service-worker.js"
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f587b49c3e4226106935",
+    "revision": "de9f1c7ad8fba2726cb0",
     "url": "/better_clean/static/css/main.91458570.chunk.css"
   },
   {
-    "revision": "f587b49c3e4226106935",
-    "url": "/better_clean/static/js/main.f587b49c.chunk.js"
+    "revision": "de9f1c7ad8fba2726cb0",
+    "url": "/better_clean/static/js/main.de9f1c7a.chunk.js"
   },
   {
     "revision": "2e26c9e59951c6a1550c",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/better_clean/static/media/hero.4193dc80.png"
   },
   {
-    "revision": "3bcc0f0b8d8e4877ff26fa4f8ce8b527",
+    "revision": "7f9e5b783ea6ee7678bf1866a68d4a46",
     "url": "/better_clean/index.html"
   }
 ];
