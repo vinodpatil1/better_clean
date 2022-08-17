@@ -1,7 +1,7 @@
 {
   "main.css": "/better_clean/static/css/main.4b0a61e6.chunk.css",
-  "main.js": "/better_clean/static/js/main.e1c5ae5d.chunk.js",
-  "main.js.map": "/better_clean/static/js/main.e1c5ae5d.chunk.js.map",
+  "main.js": "/better_clean/static/js/main.73c248c5.chunk.js",
+  "main.js.map": "/better_clean/static/js/main.73c248c5.chunk.js.map",
   "static/css/1.e0807d2c.chunk.css": "/better_clean/static/css/1.e0807d2c.chunk.css",
   "static/js/1.28229b2f.chunk.js": "/better_clean/static/js/1.28229b2f.chunk.js",
   "static/js/1.28229b2f.chunk.js.map": "/better_clean/static/js/1.28229b2f.chunk.js.map",
@@ -13,9 +13,9 @@
   "static/media/wel2.jpg": "/better_clean/static/media/wel2.713968bb.jpg",
   "static/media/about.jpg": "/better_clean/static/media/about.7f3e0b74.jpg",
   "static/media/contact.png": "/better_clean/static/media/contact.4ad29957.png",
-  "static/css/1.e0807d2c.chunk.css.map": "/better_clean/static/css/1.e0807d2c.chunk.css.map",
   "static/css/main.4b0a61e6.chunk.css.map": "/better_clean/static/css/main.4b0a61e6.chunk.css.map",
+  "static/css/1.e0807d2c.chunk.css.map": "/better_clean/static/css/1.e0807d2c.chunk.css.map",
   "index.html": "/better_clean/index.html",
-  "precache-manifest.ae27db4086bc7cda0d23852a44781cd8.js": "/better_clean/precache-manifest.ae27db4086bc7cda0d23852a44781cd8.js",
+  "precache-manifest.510b8cf2fde7dae36b75acbca76434d4.js": "/better_clean/precache-manifest.510b8cf2fde7dae36b75acbca76434d4.js",
   "service-worker.js": "/better_clean/service-worker.js"
 }
